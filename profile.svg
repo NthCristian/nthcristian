@@ -36,31 +36,36 @@
                     <span class="variable">userInfo</span>
                     <span class="punctuation">= {</span>
                 </p>
+
+
                 <p style="padding-left: 1rem">
+                    <span class="property">info</span><span class="punctuation">: {</span>
+                </p>
+                <p style="padding-left: 2rem">
                     <span class="property">name</span><span class="punctuation">: </span>
                     <span class="string">"Matheus Cristian"</span><span class="punctuation">,</span>
                 </p>
-                <p style="padding-left: 1rem">
-                    <span class="property">username</span><span class="punctuation">: </span>
-                    <span class="string">"nthcristian"</span><span class="punctuation">,</span>
-                </p>
-                <p style="padding-left: 1rem">
-                    <span class="property">education</span><span class="punctuation">: </span>
-                    <span class="string">"System Development Technician at Senai"</span><span class="punctuation">,</span>
-                </p>
-                <p style="padding-left: 1rem">
+                <p style="padding-left: 2rem">
                     <span class="property">location</span><span class="punctuation">: </span>
                     <span class="string">"Brazil"</span><span class="punctuation">,</span>
                 </p>
-                <p style="padding-left: 1rem">
+                <p style="padding-left: 2rem">
+                    <span class="property">education</span><span class="punctuation">: </span>
+                    <span class="string">"System Development Technician at Senai"</span><span class="punctuation">,</span>
+                </p>
+                <p style="padding-left: 2rem">
                     <span class="property">email</span><span class="punctuation">: </span>
-                    <span class="string">"matheuscristianrg@gmail.com"</span><span class="punctuation">,</span>
+                    <span class="string">"matheuscristianrg@gmail.com"</span><span class="punctuation"></span>
                 </p>
                 <p style="padding-left: 1rem">
-                    <span class="property">github</span><span class="punctuation">: </span>
-                    <span class="string">"https://github.com/NthCristian"</span><span class="punctuation">,</span>
+                    <span class="punctuation">}</span>
                 </p>
+
+
                 <p style="padding-left: 1rem">
+                    <span class="property">tech</span><span class="punctuation">: {</span>
+                </p>
+                <p style="padding-left: 2rem">
                     <span class="property">langs</span><span class="punctuation">: [</span>
                     <span class="string">"javascript"</span><span class="punctuation">, </span>
                     <span class="string">"C"</span><span class="punctuation">, </span>
@@ -68,10 +73,25 @@
                     <span class="string">"Python"</span>
                     <span class="punctuation">]</span><span class="punctuation">,</span>
                 </p>
-                <p style="padding-left: 1rem">
+                <p style="padding-left: 2rem">
                     <span class="property">editor</span><span class="punctuation">: </span>
                     <span class="string">"Zed"</span>
                 </p>
+                <p style="padding-left: 2rem">
+                    <span class="property">achievements</span><span class="punctuation">: [</span>
+                    <span class="string">"OBI Silver"</span><span class="punctuation">, </span>
+                    <span class="string">"OBI Bronze"</span>
+                    <span class="punctuation">]</span><span class="punctuation">,</span>
+                </p>
+                <p style="padding-left: 2rem">
+                    <span class="property">github</span><span class="punctuation">: </span>
+                    <span class="string">"https://github.com/NthCristian"</span><span class="punctuation">,</span>
+                </p>
+                <p style="padding-left: 1rem">
+                    <span class="punctuation">}</span>
+                </p>
+
+
                 <p><span class="punctuation">}</span><span class="punctuation">;</span></p>
             </div>
         </div>
