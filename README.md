@@ -1,1 +1,1 @@
-![User Info](https://raw.githubusercontent.com/NthCristian/nthcristian/refs/heads/main/User.svg)
+![User Info](https://raw.githubusercontent.com/nthcristian/nthcristian/refs/heads/main/User.svg)
